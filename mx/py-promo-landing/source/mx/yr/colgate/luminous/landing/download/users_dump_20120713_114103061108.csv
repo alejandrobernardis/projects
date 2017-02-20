@@ -1,0 +1,234 @@
+id,fuid,created,modified,first_name,middle_name,last_name,gender,birthday,username,email,phone_lada,phone_number,location,remote_ip,new,terms,policy
+4f9b91bf4d1ea64fdc000000,100000466644189,2012-04-28 01:44:15,2012-04-28 01:30:10,David,,Tinoco Amador,,1975-06-29 00:00:00,fb_100000466644189,davidtinocoamador@yahoo.com.mx,0,0,,201.157.13.100,no,si,si
+4f9ba1754d1ea67635000000,,2012-04-28 02:51:17,2012-04-28 02:50:06,Alejandro Manuel,,Bernardis,Male,1983-09-02 00:00:00,alejandromb,alejandro.bernardis@yr.com,0,0,Distrito Federal,201.141.144.27,no,si,si
+4f9c1f104d1ea67635000002,,2012-04-28 11:47:12,2012-05-10 01:26:06,Carlos Héctor,,Eguía Contreras,Male,1992-02-11 00:00:00,hektorValkyrie,ragerougev@gmail.com,44,4525249565,Michoacán de Ocampo,189.168.177.81,si,si,si
+4f9c32174d1ea6763500000a,,2012-04-28 13:08:23,2012-04-28 02:50:06,RUBEN OMAR,,TORRES BARRERA,Male,1984-04-20 00:00:00,romartorres,omar_fcfm@hotmail.com,0,0,Nuevo León,187.156.65.52,si,si,si
+4f9c32364d1ea6763500000c,830645248,2012-04-28 13:08:54,2012-04-28 02:50:06,Rubén,,Omar,,1984-02-29 00:00:00,fb_830645248,omar_fgeu@hotmail.com,0,0,,187.156.65.52,no,si,si
+4f9c58c64d1ea67635000010,,2012-04-28 15:53:26,2012-04-28 02:50:06,Elia Inés,,Estrada Mora,Female,1965-07-18 00:00:00,Diegousky,diego-snoopy@hotmail.com,0,0,Distrito Federal,189.225.44.205,si,si,si
+4f9c68524d1ea67635000012,,2012-04-28 16:59:46,2012-04-28 02:50:06,JONATHAN ISRAEL,,ZARAGOZA CUPICH,Male,1980-01-09 00:00:00,animali007,animali007_1980@hotmail.com,0,0,Distrito Federal,201.141.171.140,no,si,si
+4f9c6b1e4d1ea67635000014,,2012-04-28 17:11:42,2012-04-28 02:50:06,Michelle,,Zaragoza,Female,1990-11-09 00:00:00,hipstagirl,michelle.girl@hotmail.com,0,0,Distrito Federal,201.141.171.140,si,si,si
+4f9c6bba4d1ea67635000017,,2012-04-28 17:14:18,2012-04-28 02:50:06,Santiago,,Diaz,Male,1981-05-08 00:00:00,colmnillo blanco,santiagocamaleon@gmail.com,44,5535066548,Distrito Federal,201.141.79.255,no,si,si
+4f9c9a474d1ea67635000024,,2012-04-28 20:32:55,2012-04-28 02:50:06,franciscomartin,,velasquezolaes,Male,1964-01-06 00:00:00,franciscomartinvelasquezolaes,franciscovelazques@yahoo.com.mx,44,5544816444,Distrito Federal,189.135.115.194,si,si,si
+4f9ca1054d1ea67635000026,,2012-04-28 21:01:41,2012-04-28 02:50:06,franciscomartin,,velasquezolaes,Male,1964-01-06 00:00:00,franciscovelasquezolaes,www.franciscovelazques@yahoo.com.mx,44,5544816444,Distrito Federal,189.135.115.194,si,si,si
+4f9ca5354d1ea67635000028,,2012-04-28 21:19:33,2012-04-28 02:50:06,Alexandra Miroslava,,Miron Garcia,Female,1990-11-17 00:00:00,Mirochtl,mafaldasoy@hotmail.com,44,5515060743,Distrito Federal,189.135.203.229,si,si,si
+4f9cc3704d1ea63f27000000,,2012-04-28 23:28:32,2012-04-28 23:31:07,Alejandra,,Martin T,Female,1990-12-17 00:00:00,Alebissue,bissue.nuit@hotmail.com,0,0,Distrito Federal,201.141.151.5,si,si,si
+4f9cc37e4d1ea63f27000002,,2012-04-28 23:28:46,2012-04-28 23:19:23,Indira Elizabeth,,Cabrera Campos,Female,1981-08-20 00:00:00,superpekis,zl_aridny@yahoo.com.mx,0,0,México,201.157.12.143,si,si,si
+4f9cd3b74d1ea63f27000014,,2012-04-29 00:37:59,2012-04-28 23:19:23,Leonel,,Guerrero Morales,Male,1991-05-13 00:00:00,Synapsy13,gothic_blutengel13lgmd@hotmail.com,44,4432755007,Michoacán de Ocampo,201.151.111.116,si,si,si
+4f9ce0454d1ea63f27000023,,2012-04-29 01:31:33,2012-04-28 23:19:23,DIANA ISABEL,,TERRAZAS TEA,Female,1986-12-15 00:00:00,dterrazas1812000,dterrazas1812000@hotmail.com,44,5554990902,Distrito Federal,201.141.83.138,si,si,si
+4f9d37d54d1ea63f27000026,,2012-04-29 07:45:09,2012-04-28 23:19:23,Pia,,Ramos Gonzalez,Female,1986-12-06 00:00:00,Gwgeraldine,Ronoelgs@hotmail.com,0,0,Distrito Federal,201.141.136.159,si,si,si
+4f9d5d354d1ea63f27000028,,2012-04-29 10:24:37,2012-05-11 15:15:31,OCADIZ HIGAREDA,,BERNAL,Male,1983-06-13 00:00:00,OCADIZ BERNAL,djocadiz03@hotmail.com,44,6688853591,Sinaloa,187.149.249.78,si,si,si
+4f9d711e4d1ea63f27000031,,2012-04-29 11:49:34,2012-04-28 23:19:23,Julio,,Sierra,Male,1966-05-20 00:00:00,juliosierradf,juliosierradf@hotmail.com,44,5521070300,Distrito Federal,187.162.37.107,si,si,si
+4f9d8ae34d1ea63f27000033,,2012-04-29 13:39:31,2012-04-28 23:19:23,norma,,castillero palencia,Female,1957-12-16 00:00:00,norma castillero palencia,castilleronorma@hotmail.com,44,5544647187,México,189.225.191.194,si,si,si
+4f9d93a04d1ea63f27000035,688494156,2012-04-29 14:16:48,2012-04-28 23:19:23,Mónica,,Strassburger,,1979-07-25 00:00:00,fb_688494156,moni.strass@gmail.com,0,0,,187.162.18.47,no,si,si
+4f9d961c4d1ea63f27000038,,2012-04-29 14:27:24,2012-04-28 23:19:23,Raymundo Maximiano,,Abraján Díaz,Male,1955-10-05 00:00:00,Raymundo,rad5@prodigy.net.mx,44,5518363276,Distrito Federal,187.195.106.108,si,si,si
+4f9da65b4d1ea63f2700003b,,2012-04-29 15:36:43,2012-04-28 23:19:23,Graciela,,Villanueva Díaz,Female,1965-06-26 00:00:00,Graciela Villanueva Díaz,gvillanu@live.com,44,5541427158,Distrito Federal,189.253.124.126,si,si,si
+4f9daa254d1ea63f2700003d,,2012-04-29 15:52:53,2012-04-29 18:52:03,Yessica,,Sacal de Achar,Female,1974-10-15 00:00:00,Yess1206,yessica_achar@hotmail.com,52,5552907633,México,189.203.217.152,si,si,si
+4f9dab504d1ea63f2700003f,644569693,2012-04-29 15:57:52,2012-04-28 23:19:23,AlmaCantara,,Aca,,1981-02-25 00:00:00,fb_644569693,francisco.encarnacion@hotmail.com,0,0,,189.181.204.245,no,si,si
+4f9dbb074d1ea63f27000041,,2012-04-29 17:04:55,2012-04-29 17:18:08,efren,,reza reza,Male,1957-06-12 00:00:00,efrenreza,ruya1068@hotmail.com,1,5555791286,Distrito Federal,201.141.126.236,no,si,si
+4f9dc1644d1ea63f2700004a,,2012-04-29 17:32:04,2012-04-28 23:19:23,Mariana,,Coronado Pascualli,Female,1983-10-27 00:00:00,mari_coronado,mari_coronado@yahoo.com,0,0,México,200.95.163.68,si,si,si
+4f9dc6d44d1ea63f2700004d,,2012-04-29 17:55:16,2012-04-28 23:19:23,Nancy mayela,,Morin Guzmán,Female,1984-07-21 00:00:00,Nancy123,Lmns17@hotmail.com,44,8111657349,Nuevo León,201.172.222.190,si,si,si
+4f9dd5734d1ea63f27000053,,2012-04-29 18:57:39,2012-04-29 19:01:24,Yessica,,Achar,Female,1974-10-15 00:00:00,Yess1294,isaacachar@hotmail.com,0,0,México,189.253.52.139,no,si,si
+4f9dd8154d1ea63f2700005a,1660141651,2012-04-29 19:08:53,2012-04-28 23:19:23,Manuel,,Aquino,,1993-01-27 00:00:00,fb_1660141651,harlots_mouth@hotmail.com,0,0,,187.201.11.74,no,si,si
+4f9ddf9b4d1ea63f27000060,,2012-04-29 19:40:59,2012-04-28 23:19:23,ROCIO INDIRA,,OCAMPO CANO,Female,1982-07-24 00:00:00,rockrox007,rockani41@gmail.com,0,0,Sonora,189.222.62.144,si,si,si
+4f9decc14d1ea63f2700006b,,2012-04-29 20:37:05,2012-04-28 23:19:23,Faviola,,Contreras Ramos,Male,1965-07-06 00:00:00,CocoDulce,fcontrerasr@yahoo.com,0,0,Michoacán de Ocampo,201.138.205.216,no,si,si
+4f9deee04d1ea63f2700006d,,2012-04-29 20:46:08,2012-04-29 20:47:19,cisca,,vers,Female,1980-04-01 00:00:00,tandvlees,cisca80@hotmail.com,0,0,México,189.146.177.174,no,si,si
+4f9def024d1ea63f2700006f,100000786277849,2012-04-29 20:46:42,2012-04-28 23:19:23,Hektor,,Valkyrie,,1992-02-11 00:00:00,fb_100000786277849,ame_depuration_valk@hotmail.fr,0,0,,201.138.205.216,no,si,si
+4f9df5544d1ea63f27000077,1790025196,2012-04-29 21:13:40,2012-04-28 23:19:23,Elo,,Carrillo,,1990-12-27 00:00:00,fb_1790025196,elodebloom@gmail.com,0,0,,189.134.66.138,no,si,si
+4f9df8e84d1ea63f2700007f,,2012-04-29 21:28:56,2012-04-28 23:19:23,susana,,alvarez salinas,Female,1966-03-14 00:00:00,susana alvarez,salvarsali@gmail.com,44,5527128080,Distrito Federal,189.227.71.236,si,si,si
+4f9dfcb74d1ea63f27000086,,2012-04-29 21:45:11,2012-04-28 23:19:23,Diana,,Arnaiz Lòpez,Female,1968-10-14 00:00:00,dalarnaiz,dalarnaiz@yahoo.com.mx,1,5555621527,México,189.191.227.14,si,si,si
+4f9dff9c4d1ea63f27000088,,2012-04-29 21:57:32,2012-04-28 23:19:23,lizbeth,,gonzales fuentes,Female,1994-05-16 00:00:00,lii´ M´c,lizbeth_fuentes1994@hotmail.com,0,5553958719,Distrito Federal,189.135.85.191,si,si,si
+4f9e01fe4d1ea63f2700008a,,2012-04-29 22:07:42,2012-04-28 23:19:23,Irazu,,ARROYO GARCIA,Male,1990-07-13 00:00:00,qwertyzu,zu16@hotmail.com,44,5534139824,Distrito Federal,189.233.66.36,si,si,si
+4f9e02a94d1ea63f2700008c,,2012-04-29 22:10:33,2012-04-28 23:19:23,maricela,,cortez miranda,Male,1970-01-08 00:00:00,maricela,sbrayans@hotmail.com,559,6871406984,Sinaloa,201.164.120.242,si,si,si
+4f9e02c44d1ea63f2700008e,,2012-04-29 22:11:00,2012-04-29 22:22:56,lilia valeria,,martinez hernandez,Female,1992-07-30 00:00:00,valevale,tu_indiferencia@hotmail.com,44,5551884070,México,189.191.118.150,si,si,si
+4f9e038e4d1ea63f27000092,688465631,2012-04-29 22:14:22,2012-04-28 23:19:23,Manuel,,Hunter,,1987-01-31 00:00:00,fb_688465631,mhunter131@gmail.com,0,0,,189.135.68.151,no,si,si
+4f9e095a4d1ea63f270000a4,,2012-04-29 22:39:06,2012-04-28 23:19:23,lilia valeria,,martinez hernandez,Female,1992-07-30 00:00:00,tuindiferencia,rxhmt69@live.com.mx,0,0,México,189.191.118.150,si,si,si
+4f9e0b904d1ea63f270000ab,,2012-04-29 22:48:32,2012-04-29 22:50:19,Alexia Deneth,,Ruiz Alemán,Female,1988-12-08 00:00:00,portfolio,denn.portfolio@gmail.com,44,5515709007,Distrito Federal,201.161.26.83,si,si,si
+4f9e0c0b4d1ea63f270000ad,100001477490752,2012-04-29 22:50:35,2012-04-28 23:19:23,Santiago,,Portafolio,,1988-12-08 00:00:00,fb_100001477490752,port.folio@live.com,0,0,,201.161.26.83,no,si,si
+4f9e0f064d1ea63f270000b9,,2012-04-29 23:03:18,2012-04-28 23:19:23,Esperanza Claudia Marisol,,Aupart Hernandez,Female,1968-11-15 00:00:00,Claudiam,e.poh98@hotmail.com,0,0,Distrito Federal,201.141.164.161,no,si,si
+4f9e12af4d1ea63f270000c2,,2012-04-29 23:18:55,2012-04-28 23:19:23,Ernestina,,Flores González,Female,1958-04-12 00:00:00,ernestinaflores,fflores1930@hotmail.com,44,5527040925,Distrito Federal,201.141.80.94,si,si,si
+4f9e13a24d1ea63f270000c4,626950067,2012-04-29 23:22:58,2012-04-28 23:19:23,La,,Pulga,,1978-11-01 00:00:00,fb_626950067,cassandra.goldberg@primernivelgroup.com,0,0,,201.153.115.200,no,si,si
+4f9e158b4d1ea63f270000c9,,2012-04-29 23:31:07,2012-04-28 23:19:23,alejandra,,pacheco martinez,Female,1992-02-16 00:00:00,alecheerP,acuacheer_love16@hotmail.com,44,5522573395,México,201.141.182.167,si,si,si
+4f9e4d544d1ea63f270000ef,,2012-04-30 03:29:08,2012-04-28 23:19:23,marina,,Iñiguez jimenez,Female,1982-06-20 00:00:00,marinolys,marinolyss@hotmail.com,44,3614838672,Jalisco,187.204.129.160,si,si,si
+4f9e4d744d1ea63f270000f1,579076856,2012-04-30 03:29:40,2012-04-28 23:19:23,Marina,,Jim,,1983-06-20 00:00:00,fb_579076856,mprincesa_@hotmail.com,0,0,,187.204.129.160,no,si,si
+4f9ea3484d1ea63f27000100,,2012-04-30 09:35:52,2012-04-28 23:19:23,Alejandro,,Sarmiento  Garduño,Male,1988-09-28 00:00:00,Alejandro Sarmiento,alsaga@hotmail.com,44,5544475566,Distrito Federal,201.147.90.253,no,si,si
+4f9ea4044d1ea63f27000102,,2012-04-30 09:39:00,2012-04-28 23:19:23,Alejandro,,Sarmiento Garduño,Male,1988-09-28 00:00:00,alejandrosrmnt@gmail.com,alejandrosrmnt@gmail.com,44,5544475566,Distrito Federal,201.147.90.253,no,si,si
+4f9ea7004d1ea63f27000104,,2012-04-30 09:51:44,2012-04-28 23:19:23,ARIANNA LARISSA,,HERNANDEZ VEA,Female,1981-10-30 00:00:00,larissavea,larissavea@gmail.com,0,0,Distrito Federal,200.36.103.251,si,si,si
+4f9ebbc04d1ea60677000000,,2012-04-30 11:20:16,2012-04-30 11:21:13,Martha Patricia,,Castella,Female,1958-03-07 00:00:00,mpcastella,mpcastella@yahoo.com.mx,44,5534658766,Distrito Federal,201.149.20.194,no,si,si
+4f9ec0524d1ea60691000000,,2012-04-30 11:39:46,2012-04-30 11:22:51,Luz Elena,,Suastegui,Female,1979-11-09 00:00:00,lucelena9,luzelenas.mkt@gmail.com,44,6241257015,Baja California Sur,189.176.115.198,si,si,si
+4f9ece124d1ea60691000005,,2012-04-30 12:38:26,2012-04-30 11:22:51,sandy lorena,,sanchez pech,Male,1994-03-21 00:00:00,andromeda mejillas,are-nita_21@hotmail.com,44,9821043587,Campeche,187.155.34.29,si,si,si
+4f9ee8bb4d1ea61433000000,,2012-04-30 14:32:11,2012-04-30 14:21:27,Larissa,,Hernandez,Female,1981-10-30 00:00:00,larissavea30,larissavea30@hotmail.com,0,0,Distrito Federal,200.36.103.251,si,si,si
+4f9eef8c4d1ea61463000000,,2012-04-30 15:01:16,2012-04-30 15:05:04,LISZA,,FERNANDEZ,Male,1977-09-20 00:00:00,vittoazuli,arelaf1@yahoo.com,0,0,Distrito Federal,189.135.209.92,no,si,si
+4f9f033b4d1ea61463000004,,2012-04-30 16:25:15,2012-04-30 14:55:29,NURY JACKELINE,,ROJAS,Male,1967-10-02 00:00:00,JACKELINE ROJAS,jrojas@bellezaexpress.com,0,0,Sonora,190.66.109.174,si,si,si
+4f9f0a4a4d1ea61463000009,,2012-04-30 16:55:22,2012-04-30 14:55:29,María del Carmen,,López Nader,Female,1962-10-21 00:00:00,María del Carmen López Nader,mc_nader@hotmail.com,44,5540308243,Distrito Federal,189.135.213.94,si,si,si
+4f9f0d6a4d1ea6146300000b,,2012-04-30 17:08:42,2012-04-30 17:15:46,Gustavo Eugenio,,Rodríguez Roldán,Male,1983-12-16 00:00:00,gerr_1983,gerr_1983@hotmail.com,44,5514616610,Distrito Federal,189.180.173.11,no,si,si
+4f9f0f954d1ea6146300000d,,2012-04-30 17:17:57,2012-04-30 14:55:29,Aarón,,González Gutiérrez,Male,1980-03-19 00:00:00,aarongog10,aarongog10@hotmail.com,0,0,México,189.180.173.11,no,si,si
+4f9f125c4d1ea61463000012,,2012-04-30 17:29:48,2012-05-25 12:37:19,Ana Patricia,,Alas Tecillo,Female,1960-06-21 00:00:00,Paty Alas,patochurrero@hotmail.com,0,0,Distrito Federal,189.136.46.221,si,si,si
+4f9f149b4d1ea6146300001a,610007086,2012-04-30 17:39:23,2012-04-30 14:55:29,Éktor,,R,,1983-08-22 00:00:00,fb_610007086,ektorgar@gmail.com,0,0,,189.249.49.167,no,si,si
+4f9f24de4d1ea61463000024,,2012-04-30 18:48:46,2012-04-30 14:55:29,elizabeth,,rocha,Female,1986-06-17 00:00:00,elizabeth,grasjaper@hotmail.com,44,6711029839,Zacatecas,'192.168.0.23, 189.187.235.128',si,si,si
+4f9f29054d1ea61463000026,,2012-04-30 19:06:29,2012-04-30 20:22:22,MAGDALUZ,,LEON SOLIS,Female,1975-10-05 00:00:00,magdaluz,magda-l-s@hotmail.com,55,5552944915,Distrito Federal,189.225.192.101,si,si,si
+4f9f39214d1ea61463000028,,2012-04-30 20:15:13,2012-04-30 14:55:29,sandra,,sanchez romero,Female,1979-01-14 00:00:00,sandracat,sangracat@hotmail.com,44,5531493876,Distrito Federal,201.141.15.121,no,si,si
+4f9f46764d1ea6146300002a,,2012-04-30 21:12:06,2012-04-30 14:55:29,Samira,,Chahuán,Female,1993-06-21 00:00:00,schahuan,samypaisanita@hotmail.com,0,0,Zacatecas,186.106.156.252,si,si,si
+4f9f62af4d1ea617fa000000,,2012-04-30 23:12:31,2012-04-30 23:10:26,Natalia,,Bagnati,Female,1982-06-29 00:00:00,nbagnati,nbagnati@hotmail.com,0,0,Distrito Federal,201.141.144.27,no,si,si
+4f9f743a4d1ea6667600000a,,2012-05-01 00:27:22,2012-05-01 00:30:35,Miguel Tadeo,,Sierra Marino,Male,1986-07-20 00:00:00,Tadeusmarinus,arqui_sierramarinotadeo@hotmail.com,0,0,Guanajuato,187.142.198.108,no,si,si
+4f9fdb064d1ea66736000006,,2012-05-01 07:45:58,2012-05-01 01:08:40,Elena,,Mendoza,Female,1973-04-26 00:00:00,Princesah,helena@princesah.com,44,5525674647,Distrito Federal,189.245.108.205,no,si,si
+4fa0068d4d1ea66736000010,100003303491979,2012-05-01 10:51:41,2012-05-01 01:08:40,Daniel,,Brito,,1989-12-11 00:00:00,fb_100003303491979,dabrito@live.com.mx,0,0,,201.103.80.115,no,si,si
+4fa016154d1ea66736000012,100001771302622,2012-05-01 11:57:57,2012-05-01 01:08:40,Ciyn,,Castrejon,,1977-02-03 00:00:00,fb_100001771302622,remamita06@hotmail.com,0,0,,187.204.2.227,no,si,si
+4fa01dc64d1ea6673600001f,100000884222725,2012-05-01 12:30:46,2012-05-01 01:08:40,Ruben,,Rubio Sarabia,,1976-12-16 00:00:00,fb_100000884222725,rudarusa@hotmail.com,0,0,,201.164.110.10,si,si,si
+4fa033154d1ea6673600002e,,2012-05-01 14:01:41,2012-05-01 01:08:40,Laura,,Ortiz de Zarate Ocampo,Female,1972-07-26 00:00:00,Fshapiro,Laushapiro@gmail.com,0,0,México,189.245.112.13,no,si,si
+4fa039374d1ea66736000033,,2012-05-01 14:27:51,2012-05-01 01:08:40,ana sofia,,madrid baeza,Female,1990-07-26 00:00:00,sofia.madrid26,sofia.madrid26@hotmail.com,44,6144939213,Chihuahua,189.244.46.252,si,si,si
+4fa049914d1ea6673600004b,,2012-05-01 15:37:37,2012-05-01 01:08:40,Omar Isaac,,Sandoval Hernandez,Male,1987-06-17 00:00:00,HadashaLenny,omarsan87@gmail.com,44,5585436258,Distrito Federal,201.141.93.26,si,si,si
+4fa050264d1ea66736000052,500736985,2012-05-01 16:05:42,2012-05-01 01:08:40,Doriella,,Yepez,,1982-03-04 00:00:00,fb_500736985,dhexa@hotmail.com,0,0,,200.76.43.131,si,si,si
+4fa05cae4d1ea66736000065,,2012-05-01 16:59:10,2012-05-01 01:08:40,diana margarita,,luisjuan zuniga,Female,1987-07-14 00:00:00,DMargarita,maggi_lz@hotmail.com,44,3411228263,Jalisco,187.204.79.91,si,si,si
+4fa060614d1ea6673600006f,,2012-05-01 17:14:57,2012-05-01 01:08:40,Marcela,,Virchez Figueroa,Female,1965-08-14 00:00:00,Marcelavf,marcelavf@yahoo.com,44,5530133455,Distrito Federal,189.140.26.76,no,si,si
+4fa0736d4d1ea66736000083,,2012-05-01 18:36:13,2012-05-01 01:08:40,BELINDA EDITH,,VELASCO AGUILAR,Female,1960-07-14 00:00:00,delfin12,kimba049@hotmail.com,1,4771048864,Guanajuato,189.167.227.25,no,si,si
+4fa07d9b4d1ea66736000085,,2012-05-01 19:19:39,2012-05-01 01:08:40,PATRICIA,,ALGAZE,Female,1962-06-05 00:00:00,PATRICIA,palgaze@hotmail.com,0,0,Distrito Federal,189.178.51.242,si,si,si
+4fa0842f4d1ea66736000089,542461352,2012-05-01 19:47:43,2012-05-01 01:08:40,Mayra,,Daniela,,1986-03-26 00:00:00,fb_542461352,mayradaniela511@hotmail.com,0,0,,201.173.166.87,no,si,si
+4fa0a0c74d1ea66736000093,,2012-05-01 21:49:43,2012-05-01 01:08:40,scherezada,,delgado velazquez,Female,1979-01-28 00:00:00,scherezada,srita_linda@hotmail.com,0,0,Baja California Norte,201.170.120.250,si,si,si
+4fa0b24c4d1ea6673600009f,,2012-05-01 23:04:28,2012-05-01 01:08:40,GABRIELA,,CANO FLORES,Female,1974-02-25 00:00:00,onacybag,onacybag@hotmail.com,0,0,México,189.228.6.227,si,si,si
+4fa0b27a4d1ea667360000a1,,2012-05-01 23:05:14,2012-05-01 01:08:40,Marisol,,Reyes Rodriguez,Female,1974-11-08 00:00:00,toncillo,almarisol@hotmail.com,0,0,Distrito Federal,189.247.124.161,si,si,si
+4fa0e87a4d1ea667360000e0,100002829109454,2012-05-02 02:55:38,2012-05-01 01:08:40,Pedro,,Medina Garcia,,1976-09-25 00:00:00,fb_100002829109454,pedro-copel@live.com.mx,0,0,,187.185.80.222,no,si,si
+4fa121df4d1ea667360000e2,100000255960737,2012-05-02 07:00:31,2012-05-01 01:08:40,Gloria,,Moscoso Pohlenz,,1953-02-17 00:00:00,fb_100000255960737,yoyisilvina@hotmail.com,0,0,,187.175.101.252,no,si,si
+4fa153984d1ea667360000e7,,2012-05-02 10:32:40,2012-06-25 22:38:36,Marina,,Marquez Parra,Female,1993-04-13 00:00:00,marinammp,marina.marquezp@gmail.com,0,0,Distrito Federal,201.141.93.134,no,si,si
+4fa16cdb4d1ea667360000f1,,2012-05-02 12:20:27,2012-05-01 01:08:40,GLORIA SAMANTHA,,VAZQUEZ INCLAN,Female,1988-09-24 00:00:00,SAMANTHA,slamy_24@hotmail.com,1,5553429242,México,200.13.124.36,no,si,si
+4fa16f9e4d1ea667360000f9,,2012-05-02 12:32:14,2012-05-01 01:08:40,Vlamyr,,Vizcaya Sanchez,Male,1965-04-06 00:00:00,vvizcaya,vlamyr.vizcaya@gmail.com,0,0,Distrito Federal,189.203.69.61,no,si,si
+4fa184c04d1ea667360000fc,,2012-05-02 14:02:24,2012-05-01 01:08:40,natalia,,lopez rodriguez,Male,1961-07-27 00:00:00,natalialopez,nuitblanche_vivelafete@hotmail.com,44,5517318603,Distrito Federal,189.178.38.50,si,si,si
+4fa18a924d1ea667360000fe,100000659797684,2012-05-02 14:27:14,2012-05-01 01:08:40,Cynthia Maria,,Martin Ornelas,,1970-11-11 00:00:00,fb_100000659797684,cpcmo@yahoo.com.mx,0,0,,187.184.37.193,si,si,si
+4fa1a0e84d1ea66736000115,,2012-05-02 16:02:32,2012-05-01 01:08:40,ingrid,,favela,Female,1977-09-11 00:00:00,ingrofavela,ifavela@live.com,0,0,Distrito Federal,201.141.119.250,no,si,si
+4fa1aea74d1ea66736000117,,2012-05-02 17:01:11,2012-05-01 01:08:40,Antonio Manuel,,Moscoso Pohlenz,Male,1962-06-17 00:00:00,tonomoscoso,tono.moscoso@hotmail.com,44,5540104986,Distrito Federal,187.175.97.137,si,si,si
+4fa1be424d1ea6673600012a,,2012-05-02 18:07:46,2012-05-01 01:08:40,maria guadalupe,,hernandez cabrera,Female,1987-03-24 00:00:00,marhercab,marybluebird87@hotmail.com,44,4432653099,Michoacán de Ocampo,200.77.133.188,si,si,si
+4fa20de24d1ea60c11000011,,2012-05-02 23:47:30,2012-05-02 19:29:20,sebastian,,parra sanches,Male,1990-07-18 00:00:00,sebastian,srojo-sebastian@hotmail.com,44,3143022755,Michoacán de Ocampo,190.26.46.152,si,si,si
+4fa217774d1ea60c1100001b,,2012-05-03 00:28:23,2012-05-02 19:29:20,jimy chamorro carvente,,chamorro carvente,Male,1978-10-22 00:00:00,raziel1234,jimych.carvente@yahoo.com.mx,44,5532431888,México,189.178.165.28,si,si,si
+4fa2abe94d1ea60c11000053,,2012-05-03 11:01:45,2012-05-02 19:29:20,paola,,garcia ayensa,Male,1986-07-11 00:00:00,pollypocket,paola@vampiritos.com,0,0,Distrito Federal,201.153.71.253,no,si,si
+4fa2ad8b4d1ea60c1100005c,604735820,2012-05-03 11:08:43,2012-05-02 19:29:20,Dora,,Cardenas,,1948-11-24 00:00:00,fb_604735820,dicg48@hotmail.com,0,0,,72.177.239.158,si,si,si
+4fa2b51a4d1ea60c1100006b,,2012-05-03 11:40:58,2012-05-02 19:29:20,MELISSA,,PERALES,Female,1982-07-19 00:00:00,MYALUMINOUS,myllageist@live.com,44,5559637948,Distrito Federal,189.135.223.30,si,si,si
+4fa2cb0e4d1ea60c11000086,1156418475,2012-05-03 13:14:38,2012-05-02 19:29:20,Karina,,Zendejas B,,1975-10-06 00:00:00,fb_1156418475,kariu40@hotmail.com,0,0,,187.134.122.137,no,si,si
+4fa2cf884d1ea60c11000090,100001192554714,2012-05-03 13:33:44,2012-05-02 19:29:20,Puen T,,Juan,,1970-12-02 00:00:00,fb_100001192554714,jverdinplus@hotmail.com,0,0,,189.163.208.166,no,si,si
+4fa2d2fa4d1ea60c1100009d,,2012-05-03 13:48:26,2012-05-02 19:29:20,ALBERTO,,GUZMAN AGUIRRE,Male,1968-06-05 00:00:00,alberto_guz,alberto_guz@hotmail.com,1,4363631348,Michoacán de Ocampo,187.134.184.192,no,si,si
+4fa2e2d54d1ea666d6000000,,2012-05-03 14:56:05,2012-06-12 19:15:53,raul,,cardenas corona,Male,1969-08-16 00:00:00,pittsoccer01,raulcarcor@yahoo.com,44,5554342311,Distrito Federal,201.103.37.87,si,si,si
+4fa2e4184d1ea666d6000004,692506706,2012-05-03 15:01:28,2012-05-03 14:18:15,Mariana,,Aguilera Puga,,1989-09-08 00:00:00,fb_692506706,sakma_e@hotmail.com,0,0,,189.177.121.199,no,si,si
+4fa2fbf44d1ea666d6000013,100000276300858,2012-05-03 16:43:16,2012-05-03 14:18:15,Fer,,Treviño,,1992-04-28 00:00:00,fb_100000276300858,fer_fulanitos@hotmail.com,0,0,,187.193.202.204,si,si,si
+4fa2fd8d4d1ea666d6000019,100000963520257,2012-05-03 16:50:05,2012-05-03 14:18:15,Laura,,Perez,,1986-02-23 00:00:00,fb_100000963520257,digital-design-laura@hotmail.com,0,0,,187.142.119.61,no,si,si
+4fa2fe614d1ea666d6000020,100002823669757,2012-05-03 16:53:37,2012-05-03 14:18:15,Vianey,,Torres,,1992-02-02 00:00:00,fb_100002823669757,fer020292@hotmail.com,0,0,,189.141.9.70,no,si,si
+4fa302874d1ea666d6000025,579218661,2012-05-03 17:11:19,2012-05-03 14:18:15,Milagros,,Pérez Gaxiola,,1987-12-09 00:00:00,fb_579218661,milagritos14@hotmail.com,0,0,,132.248.65.252,no,si,si
+4fa30f9d4d1ea666d600002b,1027625071,2012-05-03 18:07:09,2012-05-03 14:18:15,Bett,,Ina,,1986-09-01 00:00:00,fb_1027625071,betty809@hotmail.com,0,0,,187.141.84.87,no,si,si
+4fa318594d1ea666d6000032,100000867831055,2012-05-03 18:44:25,2012-05-03 14:18:15,Arwen,,Vuitton,,1985-09-17 00:00:00,fb_100000867831055,niobe_athena@hotmail.com,0,0,,189.132.114.123,no,si,si
+4fa31de24d1ea666d6000039,,2012-05-03 19:08:02,2012-05-03 14:18:15,yanely,,GOMEZ CRUZ,Female,1984-06-05 00:00:00,yan00506,gecy86@hotmail.com,44,7721095380,Hidalgo,189.227.156.94,si,si,si
+4fa320d04d1ea666d600003b,1043547167,2012-05-03 19:20:32,2012-05-03 14:18:15,Victor,,Maldonado,,1986-02-15 00:00:00,fb_1043547167,pollerin_86@hotmail.com,0,0,,201.151.111.64,no,si,si
+4fa322954d1ea666d6000046,100000596306700,2012-05-03 19:28:05,2012-05-03 14:18:15,Janeth P.,,Miranda,,1984-08-10 00:00:00,fb_100000596306700,jpmirand@hotmail.com,0,0,,201.148.0.39,no,si,si
+4fa32b584d1ea666d600004d,520318533,2012-05-03 20:05:28,2012-05-03 14:18:15,Vidblaine,,Nuñez,,1985-01-03 00:00:00,fb_520318533,bibi-kaan@hotmail.com,0,0,,189.136.28.101,no,si,si
+4fa33b1d4d1ea666d6000062,,2012-05-03 21:12:45,2012-05-03 14:18:15,diana carolina,,garza tamez,Female,1986-10-29 00:00:00,diangelique,diangelique@gmail.com,0,0,Nuevo León,187.161.207.66,no,si,si
+4fa33b5b4d1ea666d6000064,,2012-05-03 21:13:47,2012-05-03 14:18:15,Rodrigo,,Montiel Islas,Male,1982-09-19 00:00:00,rodrigomontiel,rodri.go@hotmail.es,0,9841282293,Quintana Roo,187.141.84.85,si,si,si
+4fa347b84d1ea666d6000066,,2012-05-03 22:06:32,2012-05-03 14:18:15,Flor del Rosario,,Hernandez Rodriguez,Female,1977-10-16 00:00:00,flor_especial,florhero@hotmail.com,0,0,Durango,189.235.252.207,no,si,si
+4fa348f84d1ea666d6000068,,2012-05-03 22:11:52,2012-05-03 14:18:15,Marco Polo,,Amezcua Buenrostro,Male,1985-05-15 00:00:00,Maruko.Poro,Maruko.Poro@gmail.com,44,5554182933,Distrito Federal,187.195.67.173,si,si,si
+4fa349174d1ea666d600006a,100001004959790,2012-05-03 22:12:23,2012-05-03 14:18:15,Mark,,Nethaniah,,1985-05-15 00:00:00,fb_100001004959790,maruko.poro@gmail.com,0,0,,187.195.67.173,no,si,si
+4fa36b214d1ea666d600007e,,2012-05-04 00:37:37,2012-05-03 14:18:15,Pedro,,Tena Ordóñez,Male,1983-06-12 00:00:00,Peterezco,pedro_tena@hotmail.com,44,5591654416,Distrito Federal,189.179.144.177,si,si,si
+4fa373684d1ea666d6000094,1424316753,2012-05-04 01:12:56,2012-05-03 14:18:15,Ulises,,Arellano,,1991-02-11 00:00:00,fb_1424316753,arellano_mejia@hotmail.com,0,0,,187.185.3.133,no,si,si
+4fa3b9eb4d1ea666d60000b6,,2012-05-04 06:13:47,2012-05-03 14:18:15,deniss guadalupe,,mejia vazquez,Female,1986-09-23 00:00:00,deniss.mejia,deniss_mv23@hotmail.com,686,6865568784,Baja California Norte,201.160.132.120,si,si,si
+4fa3e97b4d1ea666d60000d6,,2012-05-04 09:36:43,2012-05-03 14:18:15,Sonia,,Nuñez Diaz,Female,1983-07-15 00:00:00,sonybonita,isa645@hotmail.com,0,0,Jalisco,189.203.26.174,si,si,si
+4fa3ff444d1ea666d60000f2,,2012-05-04 11:09:40,2012-05-03 14:18:15,Maria del Consuelo,,Sanchez Merino,Female,1984-10-04 00:00:00,ConySanchez,cony_bunny@hotmail.com,272,2721417321,Veracruz,189.229.120.115,no,si,si
+4fa40ee14d1ea666d6000102,585756985,2012-05-04 12:16:17,2012-05-03 14:18:15,Dai,,Berenice,,1987-08-04 00:00:00,fb_585756985,daisi_berenice@hotmail.com,0,0,,187.192.23.51,no,si,si
+4fa411954d1ea666d6000106,,2012-05-04 12:27:49,2012-05-03 14:18:15,sarahelena,,coss gudiño,Male,1990-08-18 00:00:00,zara-coss,zara_coss@hotmail.com,443,4432062388,Michoacán de Ocampo,201.134.6.242,si,si,si
+4fa415f84d1ea666d6000109,,2012-05-04 12:46:32,2012-05-03 14:18:15,SALOMON,,CANUL TUN,Male,1982-02-19 00:00:00,salomonc,salomon_505@hotmail.com,44,9991990491,Yucatán,187.147.95.42,si,si,si
+4fa422cc4d1ea666d6000118,,2012-05-04 13:41:16,2012-05-03 14:18:15,alberto,,gomez martinez,Male,1988-04-08 00:00:00,albertogm21,albertogm21@yahoo.com.mx,0,0,Tamaulipas,189.248.203.247,si,si,si
+4fa427144d1ea666d600011f,100003036565421,2012-05-04 13:59:32,2012-05-03 14:18:15,Keren Hapuc,,Velarde Ramirez,,1976-05-11 00:00:00,fb_100003036565421,baas1943@hotmail.com,0,0,,187.155.93.84,no,si,si
+4fa429da4d1ea666d6000127,,2012-05-04 14:11:22,2012-05-03 14:18:15,Adda,,Cervantes,Female,1985-03-21 00:00:00,Boxita21,a_g_c_z@hotmail.com,0,0,Yucatán,187.155.122.210,no,si,si
+4fa42ccc4d1ea666d6000132,,2012-05-04 14:23:56,2012-05-03 14:18:15,dinora,,galvez luque,Female,1990-10-27 00:00:00,moxxalinda,dinora.gl@hotmail.com,44,6672235156,Sinaloa,200.34.165.64,no,si,si
+4fa451fb4d1ea67c4f00000c,,2012-05-04 17:02:35,2012-05-04 14:43:54,guillermo,,sanchez,Male,1978-10-01 00:00:00,smartlinx,smartlinx@live.com,0,0,Distrito Federal,201.141.213.156,no,si,si
+4fa45cc64d1ea67c4f000010,,2012-05-04 17:48:38,2012-05-04 14:43:54,Luis Manuel,,Gonzalez Cruz,Male,1983-05-28 00:00:00,luismgc13,luismgc131@yahoo.com.mx,44,8332903187,Tamaulipas,189.248.203.247,si,si,si
+4fa473184d1ea67c4f000018,,2012-05-04 19:23:52,2012-05-04 14:43:54,maria fernanda,,cabrera calderon,Female,1989-08-07 00:00:00,fernanda,gigisfercha@hotmail.com,44,5536979980,México,189.191.35.139,si,si,si
+4fa47c8a4d1ea67c4f000035,,2012-05-04 20:04:10,2012-05-04 14:43:54,ELISA GUADALUPE,,LUNA DOMINGUEZ,Female,1987-07-05 00:00:00,ELILU1987,lupita_mo_on@hotmail.com,44,7224230936,México,189.139.38.43,si,si,si
+4fa48ea64d1ea67c4f00003b,,2012-05-04 21:21:26,2012-05-04 14:43:54,Juan Jose,,Hughes Machorro,Male,1990-01-13 00:00:00,peperegio,hughes_tigres@hotmail.com,44,8111798534,Nuevo León,201.173.212.111,si,si,si
+4fa497244d1ea67c4f000052,100000528015226,2012-05-04 21:57:40,2012-05-04 14:43:54,Adhaî,,Soto,,1981-02-17 00:00:00,fb_100000528015226,adasa14@hotmail.com,0,0,,187.168.1.203,no,si,si
+4fa49ae34d1ea67c4f000058,100000563056257,2012-05-04 22:13:39,2012-05-04 14:43:54,Alexx,,Romar,,1991-07-13 00:00:00,fb_100000563056257,shakalbx@hotmail.com,0,0,,189.181.52.213,no,si,si
+4fa4be9c4d1ea67c4f00007d,,2012-05-05 00:46:04,2012-05-04 14:43:54,María delSocorro,,García Zamarrón,Male,1961-06-27 00:00:00,mariadelsocorrogarcia,socorro.gz@hotmail.com,44,8110036303,Nuevo León,189.235.9.95,si,si,si
+4fa5370d4d1ea60c1f00002a,,2012-05-05 09:19:57,2012-05-05 01:02:10,Sol,,Carrasco,Female,1980-06-05 00:00:00,solesol1,sol-carrasco@hotmail.com,44,5527854390,México,189.162.20.53,no,si,si
+4fa537d74d1ea60c1f000030,,2012-05-05 09:23:19,2012-05-05 01:02:10,Ma. del Refugio,,Morfin C,Female,1983-07-07 00:00:00,cateauch,cuksmorfin@gmail.com,44,3311787704,Jalisco,189.162.20.53,no,si,si
+4fa544564d1ea60c1f00003a,,2012-05-05 10:16:38,2012-05-05 01:02:10,Jose Luis,,Guerrero Corella,Male,1977-08-19 00:00:00,jlcorella,jlcorella_79@yahoo.com.mx,45,7711256393,Hidalgo,189.142.76.72,si,si,si
+4fa554944d1ea60c1f00004d,698786657,2012-05-05 11:25:56,2012-05-05 01:02:10,Patricia,,Molina,,1980-04-17 00:00:00,fb_698786657,arwen_elfico@hotmail.com,0,0,,201.223.65.87,no,si,si
+4fa5575c4d1ea60c1f000057,100003032634563,2012-05-05 11:37:48,2012-05-05 01:02:10,Vanguardia,,Comercial,,1975-10-04 00:00:00,fb_100003032634563,srodriguez@vanguardia.com.mx,0,0,,189.210.123.194,no,si,si
+4fa561714d1ea60c1f00005a,,2012-05-05 12:20:49,2012-05-05 01:02:10,jonh,,puente verdin,Male,1975-01-07 00:00:00,chocolate,verdinpu75@hotmail.com,45,2846214589,Querétaro,187.153.2.182,si,si,si
+4fa562d14d1ea60c1f00005c,,2012-05-05 12:26:41,2012-05-05 01:02:10,Mario Humberto,,García Garza,Male,1970-05-10 00:00:00,mg_garza,mariogarciagarza@hotmail.com,44,8113743667,Nuevo León,189.152.100.124,no,si,si
+4fa5717f4d1ea60c1f00006e,,2012-05-05 13:29:19,2012-05-05 01:02:10,BERENICE,,PALAFOX GONZALEZ,Female,1988-11-17 00:00:00,Bere-pink,bere_ayhori17@hotmail.com,45,2711091166,Veracruz,187.132.196.97,no,si,si
+4fa57abb4d1ea60c1f00007b,,2012-05-05 14:08:43,2012-05-05 01:02:10,ben 10,,tenison,Male,1915-05-04 00:00:00,luisverde1,luisdiaz_spiderman7@hotmail.com,0,0,Distrito Federal,187.152.241.243,si,si,si
+4fa587734d1ea60c1f000095,,2012-05-05 15:02:59,2012-05-05 01:02:10,manuel,,vera,Male,1974-09-04 00:00:00,Manuelvera,manuelvera@mac.com,0,0,Distrito Federal,187.195.49.193,no,si,si
+4fa58cda4d1ea60c1f0000ac,100000349053215,2012-05-05 15:26:02,2012-05-05 01:02:10,ana,,Goma,,1981-10-30 00:00:00,fb_100000349053215,anakuti50@hotmail.com,0,0,,189.140.43.121,no,si,si
+4fa5a4f74d1ea60c1f0000be,,2012-05-05 17:08:55,2012-05-05 01:02:10,NATAHLIE,,LOPEZ COLLAZO,Female,1984-05-28 00:00:00,rockmxdf,music_undergrund2002@yahoo.com.mx,44,5517623772,México,189.245.194.141,si,si,si
+4fa5a8754d1ea60c1f0000c5,,2012-05-05 17:23:49,2012-05-11 14:16:36,Nancy,,Andrade  Guillen,Female,1981-03-27 00:00:00,Nancytita,temisandrade@hotmail.com,0,0,Querétaro,189.177.19.36,si,si,si
+4fa5ae5e4d1ea60c1f0000cf,100003557465875,2012-05-05 17:49:02,2012-05-05 01:02:10,Mariaguadalupe,,Rodriguezsanchez,,1979-12-16 00:00:00,fb_100003557465875,rodriguezsanchezmariaguadalupe@yahoo.com,0,0,,187.195.11.242,no,si,si
+4fa5b39a4d1ea60c1f0000d1,,2012-05-05 18:11:22,2012-05-05 01:02:10,Rosa Eréndira,,López Urias,Female,1983-08-29 00:00:00,RosaErendira,rendylu2004@hotmail.com,0,0,Sonora,189.197.152.174,no,si,si
+4fa5be824d1ea60c1f0000e0,,2012-05-05 18:57:54,2012-05-05 01:02:10,Selene,,Ramírez,Female,1983-11-06 00:00:00,Selebella,senuva@hotmail.com,44,5527263472,Distrito Federal,189.232.72.160,si,si,si
+4fa5c0ff4d1ea60c1f0000e2,,2012-05-05 19:08:31,2012-05-06 14:31:37,Selene,,Ramírez,Female,1983-11-06 00:00:00,Selenebella,rmz.rios.selene@gmail.com,44,5527263472,Distrito Federal,189.232.72.160,si,si,si
+4fa5c3c94d1ea60c1f0000ea,,2012-05-05 19:20:25,2012-06-29 10:38:11,Claudia vanessa,,villagra,Male,1979-10-06 00:00:00,ClaudiaVanessa,claudiavillagra@hotmail.com,44,5528667895,Distrito Federal,189.239.100.133,no,si,si
+4fa5c6a64d1ea60c1f0000f5,,2012-05-05 19:32:38,2012-05-05 01:02:10,Mariana,,Mac Loughlin,Female,1983-06-30 00:00:00,marimacloughlin,marimacloughlin@hotmail.com,0,0,Distrito Federal,148.240.71.229,no,si,si
+4fa5cc7a4d1ea60c1f000116,100002220821777,2012-05-05 19:57:30,2012-05-05 01:02:10,Hugo,,Alor,,1980-02-06 00:00:00,fb_100002220821777,cpchugoalarcon@hotmail.com,0,0,,189.214.81.235,no,si,si
+4fa5cd974d1ea60c1f000120,100001979287557,2012-05-05 20:02:15,2012-05-05 01:02:10,Jazmín,,Araujo,,1981-10-26 00:00:00,fb_100001979287557,jazmin.araujo@hotmail.com,0,0,,189.214.81.235,si,si,si
+4fa5d44c4d1ea60c1f000133,,2012-05-05 20:30:52,2012-05-05 01:02:10,Sindy,,Andrade Guillén,Female,1987-02-13 00:00:00,Sindylicious,sindy.cp@gmail.com,44,4422175813,Querétaro,187.194.209.52,si,si,si
+4fa5d6394d1ea60c1f000136,,2012-05-05 20:39:05,2012-05-05 01:02:10,cecy,,garza,Female,1992-12-29 00:00:00,Mikumifu,cecii_basket.12@hotmail.com,44,6141310278,Chihuahua,200.79.218.39,no,si,si
+4fa5d8894d1ea60c1f00013a,,2012-05-05 20:48:57,2012-05-05 01:02:10,celia,,castillo,Female,1993-11-29 00:00:00,celiacastillol,celiacriscas@yahoo.com.mx,0,0,Yucatán,187.147.126.247,no,si,si
+4fa5dbdc4d1ea60c1f000143,,2012-05-05 21:03:08,2012-05-05 01:02:10,Hector Isaac,,Gonzalez Avila,Male,1993-09-23 00:00:00,Pio23lino,hect1993@hotmail.com,44,5555552837,Distrito Federal,189.189.254.200,si,si,si
+4fa5dd1d4d1ea60c1f000148,100001710252171,2012-05-05 21:08:29,2012-05-05 01:02:10,Cristopher,,Garcia,,1983-04-23 00:00:00,fb_100001710252171,pipo_halo@hotmail.com,0,0,,201.141.6.136,no,si,si
+4fa5df494d1ea60c1f00014e,526853554,2012-05-05 21:17:45,2012-05-05 01:02:10,Lara,,Quero,,1984-05-22 00:00:00,fb_526853554,laris_quero@hotmail.com,0,0,,189.163.29.248,no,si,si
+4fa5e5994d1ea60c1f000163,,2012-05-05 21:44:41,2012-05-05 01:02:10,Elizabeth,,Alvarez Haro,Male,1976-06-17 00:00:00,elizabeth17,elizabeth_alvarez_haro@hotmail.com,44,4921257693,Zacatecas,189.166.189.230,si,si,si
+4fa5ef234d1ea60c1f000178,1614356623,2012-05-05 22:25:23,2012-05-05 01:02:10,Gabriela,,Fernandez,,1983-08-13 00:00:00,fb_1614356623,panel.muro@hotmail.com,0,0,,189.137.48.216,no,si,si
+4fa5fc934d1ea60c1f00017d,,2012-05-05 23:22:43,2012-05-05 01:02:10,roxana,,perez,Female,1985-11-25 00:00:00,roxanaperez,roxana_25_2@hotmail.com,0,0,Jalisco,189.192.163.23,si,si,si
+4fa5ff324d1ea60c1f000184,100000869046909,2012-05-05 23:33:54,2012-05-05 01:02:10,Eduardo,,Basurto Calderon,,1965-09-02 00:00:00,fb_100000869046909,ebasurto23@hotmail.com,0,0,,189.134.38.113,no,si,si
+4fa6026c4d1ea60c1f000195,,2012-05-05 23:47:40,2012-05-05 01:02:10,Erika Nuria,,Lozano Hernandez,Female,1974-12-24 00:00:00,erilozano23,erilozano23@yahoo.com,0,0,Nuevo León,200.56.3.242,no,si,si
+4fa6030c4d1ea60c1f00019a,100001104225502,2012-05-05 23:50:20,2012-05-05 01:02:10,zHilviia,,Navarro,,1993-11-27 00:00:00,fb_100001104225502,zilvia_qeku@hotmail.com,0,0,,189.192.135.57,no,si,si
+4fa608ec4d1ea60c1f0001af,100000422254037,2012-05-06 00:15:24,2012-05-16 15:33:19,Sory,,Mele,,1970-04-25 00:00:00,fb_100000422254037,sory.777@hotmail.com,0,0,,189.158.85.217,no,si,si
+4fa65f6e4d1ea60c1f000213,,2012-05-06 06:24:30,2012-05-05 01:02:10,maria luisa,,troncoso alarcon,Female,1963-08-25 00:00:00,marialuisa,dra.troncoso@hotmail.com,44,5540247146,Distrito Federal,201.141.37.191,si,si,si
+4fa690354d1ea60c1f000226,,2012-05-06 09:52:37,2012-05-05 01:02:10,Yasmin,,Farro jose,Female,1961-01-08 00:00:00,YasminFarro,Y_farro_@hotmail.com,55,5555687008,Distrito Federal,201.137.89.3,si,si,si
+4fa6bb9e4d1ea60c1f00027c,,2012-05-06 12:57:50,2012-05-05 01:02:10,gabriela,,casillas ocampo,Female,1986-06-17 00:00:00,gaby_co2,gaby_co2@hotmail.com,44,7224115491,México,187.193.216.238,si,si,si
+4fa6ca334d1ea60c1f000290,,2012-05-06 14:00:03,2012-05-05 01:02:10,sara,,Ochoa Sterling,Female,1992-03-17 00:00:00,sabocha9,sabocha9@hotmail.com,44,5545004586,Distrito Federal,189.253.230.130,no,si,si
+4fa6cba14d1ea60c1f000295,,2012-05-06 14:06:09,2012-05-05 01:02:10,sandra,,perez martinez,Female,1981-03-25 00:00:00,victoria,zandra45678@hotmail.com,0,5550958398,México,201.157.14.165,si,si,si
+4fa6cd1a4d1ea60c1f000299,,2012-05-06 14:12:26,2012-05-05 01:02:10,Cristian Flor,,Durán Conrado,Female,1983-06-01 00:00:00,Cristian,cristianflor@hotmail.com,44,9991055101,Yucatán,187.141.84.91,si,si,si
+4fa6d1784d1ea60c1f00029f,,2012-05-06 14:31:04,2012-05-05 01:02:10,eduardo,,perez martinez,Male,1988-05-27 00:00:00,catarina,nesioneon@hotmail.com,44,5524993986,Distrito Federal,201.157.14.180,si,si,si
+4fa6db464d1ea60c1f0002bd,,2012-05-06 15:12:54,2012-05-05 01:02:10,ruth,,cancino,Female,1980-07-18 00:00:00,RuthCancino,ruth.cancino@pgr.com.mx,44,6181543437,Durango,201.167.12.101,si,si,si
+4fa6dbd44d1ea60c1f0002bf,,2012-05-06 15:15:16,2012-05-05 01:02:10,Aníbal Natividad,,Alvarado Ríos,Male,1986-08-29 00:00:00,anibalarios,anibalarios@gmail.com,44,2289883220,Veracruz,189.129.44.177,si,si,si
+4fa6e3544d1ea60c1f0002c1,,2012-05-06 15:47:16,2012-05-05 01:02:10,David,,Cisneros,Male,1984-12-16 00:00:00,davo161284,da.o84@hotmail.com,45,7222451109,México,189.203.218.229,no,si,si
+4fa6e7a04d1ea60c1f0002c4,100001870711065,2012-05-06 16:05:36,2012-05-05 01:02:10,Loyda,,Flores Molina,,1974-08-03 00:00:00,fb_100001870711065,shappis141@hotmail.com,0,0,,189.182.142.179,no,si,si
+4fa6f11a4d1ea60c1f0002d2,100001610286066,2012-05-06 16:46:02,2012-05-05 01:02:10,Francisco,,Reyes Soto,,1988-04-06 00:00:00,fb_100001610286066,fjrs060488@hotmail.com,0,0,,187.134.151.207,no,si,si
+4fa6f6f04d1ea60c1f0002e2,,2012-05-06 17:10:56,2012-05-06 17:29:33,Hector Omar,,Ferreira Cabrera,Male,1968-02-01 00:00:00,omarferre,omarferre@yahoo.com.mx,44,5522181069,Distrito Federal,189.136.90.23,no,si,si
+4fa6fe794d1ea60c1f0002ef,1524546046,2012-05-06 17:43:05,2012-05-05 01:02:10,Azu,,Sonatore Bais,,1981-12-02 00:00:00,fb_1524546046,azulart@yahoo.com.ar,0,0,,189.178.165.87,no,si,si
+4fa704974d1ea60c1f000305,,2012-05-06 18:09:11,2012-05-05 01:02:10,michelle,,bautista parra,Female,1992-06-15 00:00:00,katheryn,holamich15@hotmail.com,0,0,Hidalgo,201.114.231.205,no,si,si
+4fa70a464d1ea60c1f000309,100001624182779,2012-05-06 18:33:26,2012-05-05 01:02:10,Jose R,,Vazqez,,1974-08-03 00:00:00,fb_100001624182779,miserano@hotmail.com,0,0,,187.133.128.77,no,si,si
+4fa70d814d1ea60c1f00030c,,2012-05-06 18:47:13,2012-05-05 01:02:10,Leonardo,,Campos,Female,1985-08-05 00:00:00,Persa1916,Persa1916@hotmail.com,0,0,Chiapas,189.131.81.243,no,si,si
+4fa718d24d1ea60c1f00030e,730695174,2012-05-06 19:35:30,2012-05-05 01:02:10,JaNee,,ValleJo,,1989-06-23 00:00:00,fb_730695174,always_eunicita@hotmail.com,0,0,,189.243.64.105,no,si,si
+4fa71bd74d1ea60c1f000312,,2012-05-06 19:48:23,2012-05-05 01:02:10,JANET,,SANCHEZ TOLENTINO,Female,1982-07-02 00:00:00,jana3310,jaem3310@yahoo.com.mx,0,0,México,189.134.81.82,si,si,si
+4fa71f974d1ea60c1f00031d,,2012-05-06 20:04:23,2012-05-05 01:02:10,Liza Mayra,,Andon Pesil,Female,1968-12-05 00:00:00,Lizzabella68,sweetsecretlm@gmail.com,0,8341114618,Tamaulipas,201.173.190.251,si,si,si
+4fa723ef4d1ea60c1f000327,,2012-05-06 20:22:55,2012-05-05 01:02:10,ramon arturo,,machado ojeda,Male,1985-05-12 00:00:00,RAMONMACHADO,wash_125@hotmail.com,0,6343455186,Sonora,189.198.133.68,si,si,si
+4fa740704d1ea60c1f000339,,2012-05-06 22:24:32,2012-05-05 01:02:10,Sayuri,,Yamamoto Escobedo,Female,1977-04-06 00:00:00,sayuriye,sayuriye@hotmail.com,44,5532229060,Distrito Federal,201.141.70.162,si,si,si
+4fa746664d1ea60c1f000347,,2012-05-06 22:49:58,2012-05-05 01:02:10,jesus daniel,,padilla garcia,Male,1982-09-02 00:00:00,DANYEL.PADILLA,jd_dany@hotmail.com,45,6672538934,Sinaloa,201.165.145.122,si,si,si
+4fa74bc04d1ea60c1f000358,581118074,2012-05-06 23:12:48,2012-05-05 01:02:10,Zay,,Let,,1977-03-24 00:00:00,fb_581118074,zayralet@hotmail.com,0,0,,189.178.250.124,no,si,si
+4fa7563b4d1ea60c1f000376,,2012-05-06 23:57:31,2012-05-07 00:01:43,Macarena,,Leguizamon,Female,1985-01-12 00:00:00,maku2277,maku2277@hotmail.com,44,5539112483,Distrito Federal,189.253.239.27,si,si,si
+4fa757fe4d1ea60c1f00037b,1070446034,2012-05-07 00:05:02,2012-05-05 01:02:10,Paola,,Martinez,,1987-09-05 00:00:00,fb_1070446034,pao_1651@hotmail.com,0,0,,201.132.145.138,no,si,si
+4fa764e94d1ea60c1f0003a2,,2012-05-07 01:00:09,2012-05-05 01:02:10,laura elizeth,,pizaña hernandez,Female,1985-07-02 00:00:00,laubizan,lic_lauphdez@hotmail.com,45,4421856545,Querétaro,189.200.25.28,si,si,si
+4fa766594d1ea60c1f0003a7,,2012-05-07 01:06:17,2012-05-05 01:02:10,pamela,,cortes romano,Female,1981-05-22 00:00:00,pamcromano,jeudepaumela@hotmail.com,44,5515986943,Distrito Federal,201.141.151.139,no,si,si
+4fa7733d4d1ea60c1f0003dc,,2012-05-07 02:01:17,2012-05-05 01:02:10,mayla,,gonzalez,Male,1973-07-12 00:00:00,maylaglez,maylaglez@gmail.com,0,0,San Luis Potosí,189.232.171.216,no,si,si
+4fa774d24d1ea60c1f0003e3,,2012-05-07 02:08:02,2012-05-05 01:02:10,diana patricia,,vasquez yepes,Female,1989-08-06 00:00:00,dianita01,dainoth@hotmail.com,0,0,Distrito Federal,190.27.197.52,si,si,si
+4fa7d9f34d1ea60c1f0003fd,,2012-05-07 09:19:31,2012-05-05 01:02:10,MARIO,,MORALES APARICIO,Male,1982-08-07 00:00:00,mariomorales,mariomorales@hotmail.com,0,2222458337,Puebla,192.100.196.101,si,si,si
+4fa7f52c4d1ea60c1f00041c,526767605,2012-05-07 11:15:40,2012-06-04 09:41:32,Ana,,Reyes Bobadilla,,1986-11-22 00:00:00,fb_526767605,ana_bersek@hotmail.com,0,0,,207.248.231.210,no,si,si
+4fa803614d1ea60c1f000427,,2012-05-07 12:16:17,2012-05-07 12:21:10,JOSE MA,,RODRIGUEZ VERDUZCO,Male,1957-03-10 00:00:00,ABUELO57,josema_57@hotmail.com,0,5559240050,México,187.201.48.239,si,si,si
+4fa812c54d1ea60c1a000019,,2012-05-07 13:21:57,2012-05-07 12:39:08,jorge luis,,muñoz de cote paz,Male,1969-11-25 00:00:00,cotecolgate,jlmcpaz@hotmail.com,45,2464905022,Puebla,187.141.67.178,si,si,si
+4fa813914d1ea60c1a00001b,,2012-05-07 13:25:21,2012-05-07 12:39:08,MARI CRUZ,,RIVERA,Female,1985-03-02 00:00:00,MORY2017,MORY_2017@HOTMAIL.COM,45,2221815111,Puebla,200.76.83.141,si,si,si
+4fa815664d1ea60c1a000021,,2012-05-07 13:33:10,2012-05-07 12:39:08,LIDIA ELIZABETH,,MORENO VILLA,Female,1980-03-28 00:00:00,elizabeth80,NONO_28380@HOTMAIL.COM,1,4432734697,Michoacán de Ocampo,189.168.213.214,si,si,si
+4fa819084d1ea60c1a00002e,,2012-05-07 13:48:40,2012-05-07 12:39:08,Gabriela Georgina,,Gutiérrez González,Female,1972-02-27 00:00:00,Gabriela,gabby7227@hotmail.com,1,6461725007,Baja California Norte,200.38.19.226,si,si,si
+4fa81b8a4d1ea60c1a000032,1710679102,2012-05-07 13:59:22,2012-05-07 12:39:08,Carlos,,Alva,,1986-06-20 00:00:00,fb_1710679102,cgz100@hotmail.com,0,0,,187.204.26.196,no,si,si
+4fa81d664d1ea60c1a00003a,,2012-05-07 14:07:18,2012-05-07 12:39:08,ANGELES,,RAMIREZ,Female,1983-12-13 00:00:00,Martes13,angeles.ramirez@gmail.com,1,2226163640,Puebla,201.157.0.142,no,si,si
+4fa83d604d1ea60c1a00005b,1050883266,2012-05-07 16:23:44,2012-05-07 12:39:08,Lety,,Mhdez,,1988-07-31 00:00:00,fb_1050883266,chicamaravilla-1988@hotmail.com,0,0,,189.190.96.18,no,si,si
+4fa8504f4d1ea60c1a00006e,,2012-05-07 17:44:31,2012-05-07 12:39:08,Pilar del Carmen,,Muguira Jimenez,Female,1983-07-16 00:00:00,hippiexie,hippie.5@hotmail.com,44,9615931092,Chiapas,189.194.110.103,si,si,si
+4fa8515a4d1ea60c1a000070,,2012-05-07 17:48:58,2012-05-07 12:39:08,Pablo Salvador,,Reyes Pruneda,Male,1954-04-30 00:00:00,PabloReyes,pabloreyes.pruneda@gmail.com,0,0,Distrito Federal,201.103.105.39,no,si,si
+4fa851f04d1ea60c1a000072,,2012-05-07 17:51:28,2012-05-07 12:39:08,luz selene,,perrusquia,Female,1980-10-20 00:00:00,luzseleneph,luzseleneph@gmail.com,44,4423369939,Querétaro,201.144.27.150,si,si,si
+4fa853ac4d1ea60c1a00007a,,2012-05-07 17:58:52,2012-05-07 12:39:08,carolina,,delgado alcala,Female,1969-03-01 00:00:00,carodeal,carolina.delgadoa@gmail.com,44,5521065064,México,189.254.79.70,si,si,si
+4fa855124d1ea60c1a00007e,535576674,2012-05-07 18:04:50,2012-05-07 12:39:08,Luisa,,Barrera,,1986-07-29 00:00:00,fb_535576674,famosamodelo@hotmail.com,0,0,,190.157.196.88,si,si,si
+4fa860674d1ea60c1a000089,100001821210290,2012-05-07 18:53:11,2012-05-07 12:39:08,Jose,,Omar,,1990-10-26 00:00:00,fb_100001821210290,joseomarroca@hotmail.com,0,0,,189.152.175.91,no,si,si
+4fa862ee4d1ea60c1a00008b,,2012-05-07 19:03:58,2012-05-07 12:39:08,CARLOS NEMESIO,,MARTINEZ CASTELLANOS,Male,1981-10-07 00:00:00,karlosh30,karlosh22@hotmail.com,45,2221265807,Puebla,189.205.117.227,si,si,si
+4fa875c44d1ea60c1a0000ae,,2012-05-07 20:24:20,2012-05-07 12:39:08,yovani,,fernandez lemus,Male,1993-08-30 00:00:00,lemus1993,geo_lemus@hotmail.com,44,2289799439,Veracruz,189.190.96.227,si,si,si
+4fa88cab4d1ea60c1a0000dd,669031222,2012-05-07 22:02:03,2012-05-07 12:39:08,Monica Pamela,,Gonzalez,,1989-03-21 00:00:00,fb_669031222,mia_gm_213@hotmail.com,0,0,,201.132.201.207,no,si,si
+4fa89c9e4d1ea60c1a000105,,2012-05-07 23:10:06,2012-05-07 23:14:42,Rene,,Sanchez,Male,1972-05-23 00:00:00,Rsanchez,Renesanchezdiaz@hotmail.com,0,0,México,189.135.74.226,si,si,si
+4fa8b7414d1ea60c33000010,,2012-05-08 01:03:45,2012-05-08 00:37:48,jonathan ramón,,cardenas cardenas,Male,1993-10-07 00:00:00,jonathan,jony_ramon@hotmail.com,44,3131130707,Colima,189.164.187.169,si,si,si
+4fa925d64d1ea60c33000050,,2012-05-08 08:55:34,2012-05-08 00:37:48,berenice,,palafox  gonzalez,Female,1988-11-17 00:00:00,berepink,ventasv1@siscocopiadoras.com.mx,45,2711091166,Veracruz,187.132.196.97,si,si,si
+4fa928054d1ea60c3300005a,864380575,2012-05-08 09:04:53,2012-05-08 00:37:48,Jose,,Roberto,,1986-04-01 00:00:00,fb_864380575,jroberto_vg@hotmail.com,0,0,,189.157.21.22,no,si,si
+4fa928134d1ea60c3300005c,,2012-05-08 09:05:07,2012-05-08 00:37:48,MELISSA,,RUBIO ARROYO,Female,1985-07-22 00:00:00,mosha_mel,o_tisha@yahoo.com.mx,44,5559602823,Distrito Federal,201.103.90.51,si,si,si
+4fa92a9f4d1ea60c3300006b,,2012-05-08 09:15:59,2012-05-08 00:37:48,Karla Lizette,,Escobedo Casas,Female,1991-09-04 00:00:00,karla_escobedo,lovelykarlita@hotmail.com,44,6461287271,Baja California Norte,189.222.135.186,si,si,si
+4fa92c2f4d1ea60c33000073,,2012-05-08 09:22:39,2012-05-08 00:37:48,Paola Alejandra,,Muñoz Quezada,Female,1977-03-18 00:00:00,Paola_alejandra,paolaalejandram77@hotmail.com,45,4731206918,Guanajuato,187.139.181.217,si,si,si
+4fa931f24d1ea60c33000086,,2012-05-08 09:47:14,2012-05-08 00:37:48,georgina,,merla,Female,1987-01-15 00:00:00,ginamerla,gina.merla@hotmail.com,44,8110339946,Nuevo León,189.152.234.74,no,si,si
